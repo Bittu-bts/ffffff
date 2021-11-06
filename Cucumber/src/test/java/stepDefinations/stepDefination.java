@@ -13,7 +13,7 @@ public class stepDefination {
 	@Given("^User is on NetBanking landing page$")
 	public void user_is_on_NetBanking_landing_page() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
-		System.out.println("AAAA");
+		System.out.println("AAAAA");
 	  
 	}
 
